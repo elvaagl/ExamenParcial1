@@ -1,0 +1,11 @@
+accept.txt
+a.out
+atl.txt
+lll.txt
+mier11.txt
+my_file
+practice.txt
+pregunta4.cpp
+pregunta4.txt
+SisOpTarea1.cpp
+     21     138     675
